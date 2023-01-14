@@ -1,0 +1,76 @@
+h1{
+    color: rgb(179, 60, 24);
+    font-size: 200%;
+    padding: auto;
+    font-style: inherit;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 20px;
+    text-align: center;
+
+}
+#hed{
+    font-size: larger;
+    
+    text-decoration: solid;
+
+    
+    
+}
+footer{
+    background-color: burlywood;
+    border-radius: 10px;
+    text-size-adjust: 20px;
+      text-align: justify;
+      margin: 10px;
+}
+#social{
+    margin-right: 200px;
+}
+#facebook{
+    height: 15px;
+    width: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#instagram{
+    height: 15px;
+    width: 20px;
+    border-radius: 10px;
+}
+#twitter{
+    height: 15px;
+    width: 20px;
+    border-radius: 10px;
+}
+#reddit{
+    height: 15px;
+    width: 20px;
+    border-radius: 10px;
+}
+#roy1{
+    height: 200px;
+    width: 800px;
+    text-align: center;
+}
+#roy2{
+    height: 200px;
+    width: 800px;
+}
+/*#img1{
+    height: 200px;
+    width: 300px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+}
+#img2{
+    height: 200px;
+    width: 300px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+ } */
+
+
